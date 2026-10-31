@@ -1,0 +1,626 @@
+[
+  {
+    "slug": "index",
+    "nav": "Home",
+    "eyebrow": "Luvvent Events · From Vision to Reality",
+    "title": "Before the first\nshubh moment.",
+    "sub": "The lamps are lit. The jasmine is fresh. Somewhere beyond the doors, your favourite people are arriving. Let the celebration begin.",
+    "kind": "home",
+    "sections": [
+      {
+        "name": "The manifesto",
+        "title": "Some moments deserve\nthe whole world to pause.",
+        "body": "A wedding is never just one evening. It is the quiet blessing before the music rises. The hands that straighten a dupatta. The welcome that feels like coming home. At Luvvent Events, we bring planning, imagery and entertainment together around what matters to you.",
+        "cta": "Meet Luvvent",
+        "to": "about",
+        "visual": "Ivory editorial spread; oversized serif quotation beside an architectural jali panel. Gentle opacity reveal."
+      },
+      {
+        "name": "The celebrations",
+        "title": "Many rituals.\nOne unmistakably yours.",
+        "body": "From the first colour of haldi to the last song at the reception, shape a celebration that carries your traditions and your personality in equal measure.",
+        "cta": "Explore wedding planning",
+        "to": "weddings",
+        "visual": "Three asymmetric arch-framed links for haldi, sangeet and wedding day. Hover underline; no autoplay."
+      },
+      {
+        "name": "The invitation to imagine",
+        "title": "An evening,\nbefore it becomes a memory.",
+        "body": "Explore our visual studies in colour, light and atmosphere. Each is an invitation to imagine your own celebration—not a claim of a past commission.",
+        "cta": "Enter the gallery",
+        "to": "gallery",
+        "visual": "Wide illustrated palace scene followed by a numbered editorial gallery teaser. Slow transform on hover."
+      },
+      {
+        "name": "The first conversation",
+        "title": "Tell us what\nyou are dreaming of.",
+        "body": "A date. A place. A feeling you cannot quite put into words. That is enough to begin.",
+        "cta": "Begin your celebration",
+        "to": "contact",
+        "visual": "Sindoor panel, fine gold rules and one clear ivory call to action."
+      }
+    ]
+  },
+  {
+    "slug": "about",
+    "nav": "About",
+    "eyebrow": "The people behind the anticipation",
+    "title": "Your traditions.\nOur full attention.",
+    "sub": "Based in Hyderabad, Luvvent Events brings event planning, wedding planning, corporate organisation, photography, videography and entertainment into one considered conversation.",
+    "sections": [
+      {
+        "name": "Our philosophy",
+        "title": "Meaning before spectacle.",
+        "body": "The most memorable celebrations feel personal before they look beautiful. We begin with your people, your rituals and the way you want the room to feel. Then we shape the details around them.",
+        "cta": "See our approach",
+        "to": "process",
+        "visual": "Split spread with large 01 numeral and intimate illustrated diya still life."
+      },
+      {
+        "name": "Our promise",
+        "title": "A thoughtful host\nbehind every detail.",
+        "body": "Customer-focused planning means listening carefully, explaining choices clearly and keeping the celebration connected to your priorities. Quality-driven service means taking the preparation as seriously as the occasion.",
+        "cta": "Explore our services",
+        "to": "services",
+        "visual": "Two generous text columns divided by a hairline gold rule."
+      },
+      {
+        "name": "Cultural care",
+        "title": "Tradition is personal.\nWe treat it that way.",
+        "body": "No two families celebrate in exactly the same way. Share the customs, languages, accessibility needs and family considerations that matter to you. We build the conversation around your version of the occasion.",
+        "cta": "Introduce your celebration",
+        "to": "contact",
+        "visual": "Full-width crimson close, with small jasmine-inspired ornament."
+      }
+    ]
+  },
+  {
+    "slug": "services",
+    "nav": "Services",
+    "eyebrow": "The blueprint of a beautiful celebration",
+    "title": "Every detail,\nin conversation.",
+    "sub": "Choose the planning, storytelling and atmosphere your occasion calls for. The scope is shaped with you, then confirmed in a bespoke proposal.",
+    "kind": "services",
+    "sections": [
+      {
+        "name": "01 · Planning",
+        "title": "The complete celebration.",
+        "body": "For hosts who want a considered thread from first idea to final farewell. Wedding and event planning bring the creative direction, preparation and event-day coordination into one agreed scope.",
+        "cta": "Explore wedding planning",
+        "to": "weddings",
+        "visual": "Two large editorial panels for wedding and private-event planning."
+      },
+      {
+        "name": "02 · Storytelling",
+        "title": "The feeling, preserved.",
+        "body": "Photography and videography turn passing gestures into something you can return to: the breath before the entrance, the first embrace, the room just before it fills.",
+        "cta": "Explore photography & films",
+        "to": "photography-films",
+        "visual": "Film-strip rhythm, three illustrated frames and handwritten-style captions."
+      },
+      {
+        "name": "03 · Atmosphere",
+        "title": "Give the evening\nits own heartbeat.",
+        "body": "Entertainment shapes anticipation into energy. Discuss music, performance and the flow of the evening as part of a celebration that feels like you. Corporate occasions receive the same attention to purpose and presence.",
+        "cta": "Explore entertainment",
+        "to": "entertainment",
+        "visual": "Dark stage-inspired band with concentric gold linework."
+      },
+      {
+        "name": "Your commission",
+        "title": "A scope built\naround your occasion.",
+        "body": "Begin with full planning or discuss a focused combination of services. Deliverables, collaborators, venue requirements, fees and availability are agreed before booking. No standard package should decide how your celebration feels.",
+        "cta": "Request a bespoke proposal",
+        "to": "contact",
+        "visual": "Plain-language scope panel with a single prominent enquiry action."
+      }
+    ]
+  },
+  {
+    "slug": "weddings",
+    "nav": "Wedding Planning",
+    "eyebrow": "The wedding collection",
+    "title": "A celebration\nwith roots. And wings.",
+    "sub": "For the rituals you inherited, the people you love and the life you are about to begin.",
+    "sections": [
+      {
+        "name": "The family conversation",
+        "title": "Begin with what\nmust be felt.",
+        "body": "Tell us about your families, your ceremonies and the moments you want to protect. We translate that conversation into a planning direction, an event sequence and a shared understanding of what matters most.",
+        "cta": "Discover the countdown",
+        "to": "process",
+        "visual": "Two-column family-led narrative with a brass thali illustration."
+      },
+      {
+        "name": "The wedding chapters",
+        "title": "From haldi light\nto reception glow.",
+        "body": "A joyful haldi. An intimate mehendi. A sangeet that lifts the room. A ceremony grounded in meaning. A reception that carries the night forward. Each chapter receives its own mood, while the celebration holds together.",
+        "cta": "Explore the wedding rituals",
+        "to": "haldi-mehendi",
+        "visual": "Four numbered chapter links with warm colour transitions."
+      },
+      {
+        "name": "The preparation",
+        "title": "So you can arrive\nfully in the moment.",
+        "body": "Discuss venue coordination, creative direction, vendor communication, guest flow and event-day responsibilities. The exact services and dependencies are documented in your proposal.",
+        "cta": "Plan your wedding",
+        "to": "contact",
+        "visual": "Quiet ivory close with an oversized arched outline."
+      }
+    ]
+  },
+  {
+    "slug": "haldi-mehendi",
+    "nav": "Haldi & Mehendi",
+    "eyebrow": "Rituals in colour",
+    "title": "A little haldi.\nA whole lot of heart.",
+    "sub": "Sunlit laughter, henna-dark palms and the kind of afternoon that becomes a family story.",
+    "sections": [
+      {
+        "name": "Haldi",
+        "title": "Let the morning\nwear marigold.",
+        "body": "Picture a courtyard washed in turmeric yellow, loose petals and a comfortable place for every generation to gather. We shape the setting and sequence around the customs your family follows.",
+        "cta": "View the marigold study",
+        "to": "experience-marigold",
+        "visual": "Marigold palette; low seating and sunlit courtyard illustration."
+      },
+      {
+        "name": "Mehendi",
+        "title": "The sweetest\nkind of waiting.",
+        "body": "A slower rhythm. Music that travels between conversations. Thoughtful seating, gentle light and room for the bride to enjoy the gathering while the patterns take shape.",
+        "cta": "Explore entertainment",
+        "to": "entertainment",
+        "visual": "Jasmine-green accent and hand-drawn henna-inspired geometric detail."
+      },
+      {
+        "name": "The personal details",
+        "title": "Make room\nfor your people.",
+        "body": "Share your guest mix, preferred rituals and practical needs. Artist arrangements, décor, refreshments and entertainment can be discussed and included where agreed.",
+        "cta": "Shape your daytime celebration",
+        "to": "contact",
+        "visual": "Intimate invitation panel with one button and generous breathing room."
+      }
+    ]
+  },
+  {
+    "slug": "sangeet",
+    "nav": "Sangeet & Reception",
+    "eyebrow": "When the room comes alive",
+    "title": "One more song.\nOne unforgettable night.",
+    "sub": "The lights lower. A familiar beat begins. Across the room, someone is already on their feet.",
+    "sections": [
+      {
+        "name": "The sangeet",
+        "title": "Every family\nhas its headline act.",
+        "body": "Build an evening around the performances, surprises and shared songs that belong to your people. We help shape the sequence so the excitement rises naturally.",
+        "cta": "Explore entertainment",
+        "to": "entertainment",
+        "visual": "Oxblood stage composition with a sweeping gold spotlight."
+      },
+      {
+        "name": "The reception",
+        "title": "An entrance\nworth waiting for.",
+        "body": "The first impression begins before you enter. Consider the arrival route, room reveal, lighting mood and pace of the evening as one continuous welcome.",
+        "cta": "View the midnight study",
+        "to": "experience-midnight",
+        "visual": "Wide architectural reception scene; restrained reveal on scroll."
+      },
+      {
+        "name": "The rhythm",
+        "title": "Leave space\nfor the unexpected joy.",
+        "body": "A considered running order gives the evening structure without making it feel rehearsed. Performance timings, speeches and production needs are discussed with the relevant teams.",
+        "cta": "Begin planning your evening",
+        "to": "contact",
+        "visual": "Three typographic beats: Arrival / Reveal / Afterglow."
+      }
+    ]
+  },
+  {
+    "slug": "private-events",
+    "nav": "Private Celebrations",
+    "eyebrow": "The art of gathering",
+    "title": "For the occasion\nonly you could host.",
+    "sub": "A milestone birthday. An anniversary. A family reunion. A reason to bring your favourite people into one beautiful room.",
+    "sections": [
+      {
+        "name": "The intention",
+        "title": "Not bigger.\nMore personal.",
+        "body": "Begin with the person or moment at the heart of the gathering. From there, the mood, setting and sequence can be shaped into a celebration with its own character.",
+        "cta": "Explore our process",
+        "to": "process",
+        "visual": "Intimate table setting illustration with candlelit gold accents."
+      },
+      {
+        "name": "The experience",
+        "title": "A welcome they\nwill feel immediately.",
+        "body": "Event planning, photography, videography and entertainment can come together around the scale and style of your occasion. The proposal defines exactly what is included.",
+        "cta": "Choose your services",
+        "to": "services",
+        "visual": "Three spacious service rows with numbered markers."
+      },
+      {
+        "name": "The invitation",
+        "title": "Make the next\nmilestone yours.",
+        "body": "Tell us who you are celebrating, the atmosphere you imagine and the date you have in mind.",
+        "cta": "Discuss a private celebration",
+        "to": "contact",
+        "visual": "Cream invitation card on a deep red field."
+      }
+    ]
+  },
+  {
+    "slug": "corporate-events",
+    "nav": "Corporate Events",
+    "eyebrow": "Presence with purpose",
+    "title": "A room that\nunderstands your brand.",
+    "sub": "For the launch, gathering or milestone where every arrival should feel intentional.",
+    "sections": [
+      {
+        "name": "The brief",
+        "title": "Start with\nwhat the occasion must do.",
+        "body": "Introduce your audience, message and desired atmosphere. We shape an event-planning conversation around the purpose of the gathering and the impression you want it to leave.",
+        "cta": "See the planning process",
+        "to": "process",
+        "visual": "Architectural grid and disciplined typography; gold accent only."
+      },
+      {
+        "name": "The experience",
+        "title": "From first welcome\nto final conversation.",
+        "body": "Corporate event organisation can bring programme flow, preparation, partner coordination and event-day responsibilities into an agreed plan. Photography, videography and entertainment can be discussed alongside it.",
+        "cta": "Explore all services",
+        "to": "services",
+        "visual": "Three-stage timeline: Arrival / Programme / Connection."
+      },
+      {
+        "name": "The next move",
+        "title": "Let the occasion\nspeak clearly.",
+        "body": "Share your event type, guest estimate, location and key dates. We will use those details to begin the scoping conversation.",
+        "cta": "Discuss your corporate event",
+        "to": "contact",
+        "visual": "Minimal executive invitation; no unsupported client logos."
+      }
+    ]
+  },
+  {
+    "slug": "photography-films",
+    "nav": "Photography & Films",
+    "eyebrow": "The art of remembering",
+    "title": "Before the pose.\nThere is the feeling.",
+    "sub": "A held breath. A proud glance. The laughter just outside the frame. Photography and videography for the moments that make the occasion yours.",
+    "sections": [
+      {
+        "name": "Photography",
+        "title": "The gestures\nthat say everything.",
+        "body": "Discuss the images you care about: family portraits, ceremonial details, candid exchanges and the atmosphere of the setting. Coverage, team composition and deliverables are agreed in advance.",
+        "cta": "Explore the gallery direction",
+        "to": "gallery",
+        "visual": "Three editorial frame proportions; captions clarify concept artwork."
+      },
+      {
+        "name": "Videography",
+        "title": "Hear the evening\ncome back to life.",
+        "body": "A film can hold what a photograph cannot: a voice, a rhythm, the sound of a room responding together. Share your preferred storytelling style, then confirm coverage, edits and delivery timelines in your proposal.",
+        "cta": "See the midnight concept",
+        "to": "experience-midnight",
+        "visual": "Widescreen illustrated film still; no nonfunctional play button."
+      },
+      {
+        "name": "The conversation",
+        "title": "Tell us what\nyou want to remember.",
+        "body": "Let us know which ceremonies and people matter most, and how you imagine returning to the celebration in years to come.",
+        "cta": "Discuss photography & films",
+        "to": "contact",
+        "visual": "Quiet full-width text with a small framed diya motif."
+      }
+    ]
+  },
+  {
+    "slug": "entertainment",
+    "nav": "Entertainment",
+    "eyebrow": "The pulse of the celebration",
+    "title": "You can feel it\nbefore the first beat.",
+    "sub": "The hush before a performance. The first note everyone knows. The moment an entire room becomes part of the evening.",
+    "sections": [
+      {
+        "name": "The mood",
+        "title": "Music with\na sense of occasion.",
+        "body": "Share the sounds you love, the traditions you want to honour and the energy you imagine. Artist options, technical requirements and availability are explored during scoping.",
+        "cta": "Explore sangeet planning",
+        "to": "sangeet",
+        "visual": "Gold sound-wave ornament on a rich red stage-inspired field."
+      },
+      {
+        "name": "The sequence",
+        "title": "Build the anticipation.\nThen let it rise.",
+        "body": "Ceremonial moments, family performances and dance-floor energy need different kinds of space. We discuss the programme as a whole so each moment has room to land.",
+        "cta": "See the countdown",
+        "to": "process",
+        "visual": "Three vertical beats with a restrained reveal."
+      },
+      {
+        "name": "Your evening",
+        "title": "What should\nthe room feel like?",
+        "body": "Intimate and acoustic. Joyful and traditional. A late-night celebration. Tell us where the evening should begin—and where you want it to go.",
+        "cta": "Create the atmosphere",
+        "to": "contact",
+        "visual": "Invitation panel with three mood words set in large serif type."
+      }
+    ]
+  },
+  {
+    "slug": "gallery",
+    "nav": "Gallery",
+    "eyebrow": "The gallery · Celebrations & inspiration",
+    "title": "The setting.\nThe anticipation.",
+    "sub": "Explore photographs from our Google business profile, followed by three separately labelled art-direction studies for your next celebration.",
+    "kind": "gallery",
+    "sections": [
+      {
+        "name": "01 · The Marigold Morning",
+        "title": "When sunlight\nbecomes a celebration.",
+        "body": "A courtyard haldi study in marigold, sandstone and fresh green. Explore the preparations before the first guest arrives.",
+        "cta": "Enter the marigold study",
+        "to": "experience-marigold",
+        "visual": "Bright courtyard illustration; asymmetrical 60/40 image-to-copy composition."
+      },
+      {
+        "name": "02 · The Royal Vow",
+        "title": "A ceremony\nheld in warm light.",
+        "body": "A mandap concept in heirloom ivory and antique gold, with an architectural sense of stillness.",
+        "cta": "Enter the royal study",
+        "to": "experience-royal",
+        "visual": "Centred palace arches with repeated diya motifs."
+      },
+      {
+        "name": "03 · The Midnight Mehfil",
+        "title": "The night\nis just beginning.",
+        "body": "A reception study in sindoor red, candlelight and the promise of one more song.",
+        "cta": "Enter the midnight study",
+        "to": "experience-midnight",
+        "visual": "Deep crimson panoramic stage illustration; generous editorial caption."
+      }
+    ]
+  },
+  {
+    "slug": "experience-marigold",
+    "nav": "Marigold Morning",
+    "eyebrow": "Concept study 01 · Not a completed event",
+    "title": "The Marigold\nMorning.",
+    "sub": "A haldi imagined as a sunlit family courtyard: tactile, joyful and unmistakably Indian.",
+    "sections": [
+      {
+        "name": "The palette",
+        "title": "Turmeric. Sandstone.\nA breath of green.",
+        "body": "The concept uses warm yellow as an accent against soft architectural neutrals, allowing flowers, fabrics and the people in the room to carry the colour.",
+        "cta": "Explore haldi & mehendi",
+        "to": "haldi-mehendi",
+        "visual": "Palette swatches alongside a courtyard illustration; label all imagery concept artwork."
+      },
+      {
+        "name": "Before the guests",
+        "title": "The quiet work\nbehind the colour.",
+        "body": "Imagine petals being placed, cushions finding their corners and the ceremonial space receiving a final check. A behind-the-scenes sequence would capture those preparations before the family arrives.",
+        "cta": "Discover the process",
+        "to": "process",
+        "visual": "Triptych concept storyboard: petals / seating / final walkthrough."
+      },
+      {
+        "name": "Make it yours",
+        "title": "What does your\nmorning look like?",
+        "body": "Use this study as a starting point. Your rituals, venue and guest needs will shape the actual design.",
+        "cta": "Discuss your haldi",
+        "to": "contact",
+        "visual": "Warm cream closing invitation with a yellow border."
+      }
+    ]
+  },
+  {
+    "slug": "experience-royal",
+    "nav": "The Royal Vow",
+    "eyebrow": "Concept study 02 · Not a completed event",
+    "title": "The Royal\nVow.",
+    "sub": "An architectural wedding-ceremony concept in ivory, antique gold and the soft glow of diyas.",
+    "sections": [
+      {
+        "name": "The setting",
+        "title": "Let the ritual\nhold the room.",
+        "body": "An open, balanced mandap concept frames the ceremony without overwhelming it. Fine gold linework and pale textile layers give the setting warmth and a sense of proportion.",
+        "cta": "Explore wedding planning",
+        "to": "weddings",
+        "visual": "Symmetrical palace arch; still composition with no exaggerated animation."
+      },
+      {
+        "name": "The final hour",
+        "title": "Everything in place.\nA moment to breathe.",
+        "body": "A preparation storyboard would follow the light check, the placement of ceremonial elements and the final review of family access. Religious requirements are confirmed with the family and their chosen officiant.",
+        "cta": "Explore the countdown",
+        "to": "process",
+        "visual": "Three annotated preparation frames with editorial labels."
+      },
+      {
+        "name": "Your traditions",
+        "title": "Bring your own\nmeaning to the mandap.",
+        "body": "The concept is a visual starting point. The final setting must respond to your customs, venue and agreed scope.",
+        "cta": "Begin your wedding conversation",
+        "to": "contact",
+        "visual": "Ivory-on-crimson invitation beneath a fine mandap outline."
+      }
+    ]
+  },
+  {
+    "slug": "experience-midnight",
+    "nav": "Midnight Mehfil",
+    "eyebrow": "Concept study 03 · Not a completed event",
+    "title": "The Midnight\nMehfil.",
+    "sub": "A reception concept for the moment the formalities soften and the whole room leans into the night.",
+    "sections": [
+      {
+        "name": "The atmosphere",
+        "title": "Candlelight. Velvet.\nThe promise of music.",
+        "body": "Deep red surfaces and warm brass accents create a mood of intimacy at scale. The visual direction leaves room for expressive florals and a clear view of the stage.",
+        "cta": "Explore sangeet & reception",
+        "to": "sangeet",
+        "visual": "Dark panoramic illustrated ballroom with gold pools of light."
+      },
+      {
+        "name": "The setup",
+        "title": "The last rehearsal\nbefore the room is yours.",
+        "body": "Imagine a behind-the-scenes sequence following stage cues, a room-lighting check and the final arrival walkthrough. Any production design would be developed around the venue and technical requirements.",
+        "cta": "Explore entertainment",
+        "to": "entertainment",
+        "visual": "Alternating wide and close storyboard panels with minimal captions."
+      },
+      {
+        "name": "Your night",
+        "title": "How should\nthe evening unfold?",
+        "body": "Bring the songs, the stories and the feeling you want your guests to take home. We can begin there.",
+        "cta": "Discuss your reception",
+        "to": "contact",
+        "visual": "Large serif invitation with a single gold-outlined action."
+      }
+    ]
+  },
+  {
+    "slug": "process",
+    "nav": "Our Process",
+    "eyebrow": "The countdown to the extraordinary",
+    "title": "The beautiful part?\nYou get to be there.",
+    "sub": "A considered sequence of conversations, decisions and final preparations—so the occasion feels like yours from the beginning.",
+    "kind": "timeline",
+    "sections": [
+      {
+        "name": "01 · The first spark",
+        "title": "Tell us\nwhat matters.",
+        "body": "We begin with the occasion, your people, traditions, location, dates and priorities. Early conversations establish what you need and whether the brief is the right fit.",
+        "cta": "Start the conversation",
+        "to": "contact",
+        "visual": "Oversized 01 marker on a fine vertical gold timeline."
+      },
+      {
+        "name": "02 · The shared vision",
+        "title": "Give the feeling\na form.",
+        "body": "We explore creative direction and service scope. A bespoke proposal sets out agreed deliverables, fees, responsibilities and relevant terms before a booking is confirmed.",
+        "cta": "Explore service options",
+        "to": "services",
+        "visual": "Mood-board style type block and palette strip; timeline continues."
+      },
+      {
+        "name": "03 · The considered plan",
+        "title": "Make every\ndecision count.",
+        "body": "Once the commission is agreed, planning develops around the booked scope. Timelines, coordination points and outstanding decisions are kept connected to the needs of your occasion.",
+        "cta": "Read planning questions",
+        "to": "faq",
+        "visual": "Editorial checklist with abundant spacing, no fabricated countdown dates."
+      },
+      {
+        "name": "04 · The final countdown",
+        "title": "The room is ready.\nYour moment is next.",
+        "body": "Final reviews bring together the agreed event-day details and responsibilities. The aim is simple: a preparation process that makes space for you to experience your own celebration.",
+        "cta": "Begin your celebration",
+        "to": "contact",
+        "visual": "Full-width architectural reveal transitioning from ivory to crimson."
+      }
+    ]
+  },
+  {
+    "slug": "journal",
+    "nav": "Wedding Journal",
+    "eyebrow": "Notes before the celebration",
+    "title": "A little perspective\nbefore the big day.",
+    "sub": "Thoughtful starting points for a celebration with meaning, atmosphere and room to enjoy it.",
+    "sections": [
+      {
+        "name": "Planning note 01",
+        "title": "Choose the feeling\nbefore the flowers.",
+        "body": "Begin with three words you want guests to use after the celebration. Intimate, joyful, ceremonial. Or vibrant, generous, unexpected. Let those words guide decisions when too many options begin to look equally beautiful.",
+        "cta": "Translate your vision",
+        "to": "contact",
+        "visual": "Magazine-style opening with a large drop cap and marigold margin rule."
+      },
+      {
+        "name": "Planning note 02",
+        "title": "Give every ritual\nits own breathing room.",
+        "body": "Speak with your families and officiant about timing, customs and participation before shaping the wider schedule. A beautiful programme respects the moments that should never feel hurried.",
+        "cta": "Explore the wedding chapters",
+        "to": "weddings",
+        "visual": "Two-column reading width with a pull quote."
+      },
+      {
+        "name": "Planning note 03",
+        "title": "Think about the arrival.\nThen the farewell.",
+        "body": "How will guests find their way? Where can older relatives sit comfortably? What will people hear as they enter? Consider the whole journey alongside the visual design. Accessibility and comfort belong in the first conversation.",
+        "cta": "Explore our process",
+        "to": "process",
+        "visual": "Three editorial prompts set beneath an arch illustration."
+      }
+    ]
+  },
+  {
+    "slug": "faq",
+    "nav": "Planning Questions",
+    "eyebrow": "A few details, beautifully clear",
+    "title": "Before we\nbegin.",
+    "sub": "Practical answers for the first conversation. Your final arrangements will be set out in your bespoke proposal.",
+    "kind": "faq",
+    "sections": [
+      {
+        "name": "Your services",
+        "title": "What can Luvvent help us plan?",
+        "body": "Luvvent offers wedding planning, event planning, corporate event organisation, photography, videography and entertainment services. Tell us which elements you need, and we can begin defining a scope.",
+        "cta": "Explore the services",
+        "to": "services",
+        "visual": "Accessible accordion; question is a button-like summary with a visible focus state."
+      },
+      {
+        "name": "Location & availability",
+        "title": "Can we discuss a destination celebration?",
+        "body": "Yes—include your proposed location in the enquiry. Serviceability, travel, venue requirements and availability need to be confirmed individually. We can explore the practical details together before a scope is agreed.",
+        "cta": "Share your location",
+        "to": "contact",
+        "visual": "Single accordion row with plain-language answer."
+      },
+      {
+        "name": "Investment & booking",
+        "title": "How is the investment agreed?",
+        "body": "There are no published package prices here. Your occasion, scale and selected services inform a bespoke proposal. Fees, payment schedule, cancellation terms and booking requirements must be agreed directly with Luvvent.",
+        "cta": "Request a proposal",
+        "to": "contact",
+        "visual": "Single accordion row; no invented price anchors."
+      },
+      {
+        "name": "First conversation",
+        "title": "What should we have ready?",
+        "body": "An approximate date, location, event type and guest estimate are helpful. Share a budget range if you have one, and any rituals or access needs you want considered. It is fine if some details are still undecided.",
+        "cta": "Begin with what you know",
+        "to": "contact",
+        "visual": "Final open accordion followed by a prominent contact link."
+      }
+    ]
+  },
+  {
+    "slug": "contact",
+    "nav": "Contact Us",
+    "eyebrow": "Your invitation to begin",
+    "title": "The next\nbeautiful chapter.",
+    "sub": "Tell us a little about your occasion. We will help turn the first thought into a more considered conversation.",
+    "kind": "contact",
+    "sections": [
+      {
+        "name": "The invitation",
+        "title": "A few details.\nA world of possibility.",
+        "body": "Share what you know today. Dates and guest counts can be approximate. Your message stays in this browser until you choose to open WhatsApp and send it.",
+        "cta": "Prepare my WhatsApp enquiry",
+        "to": "contact",
+        "visual": "Two-step accessible intake form beside a crimson invitation panel. Clear progress and review before leaving."
+      },
+      {
+        "name": "A direct conversation",
+        "title": "Prefer to\nspeak first?",
+        "body": "Call Luvvent Events on 090902 19319 or email luvvent.com@gmail.com. Find us at 5th floor, Maruthee Residency, Sri Ramnagar Colony, Sri Ramnagar – Block B, Gachibowli, Hyderabad, Telangana 500084. Please call before visiting.",
+        "cta": "Call Luvvent",
+        "to": "tel:09090219319",
+        "visual": "Large readable phone number on ivory; secondary navigation to planning questions."
+      }
+    ]
+  }
+]

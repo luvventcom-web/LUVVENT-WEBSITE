@@ -1,0 +1,12 @@
+{
+  "name": "luvvent-events",
+  "version": "1.0.0",
+  "private": true,
+  "description": "18-page traditional Indian celebration website for Luvvent Events",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
